@@ -1,6 +1,6 @@
 import os
 
-STORY = "He planted trees he'd never shade."
+STORY = "Returned home. Nobody remembered his name."
 
 def main():
     os.makedirs("/output", exist_ok=True)
